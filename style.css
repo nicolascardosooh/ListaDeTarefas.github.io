@@ -16,7 +16,6 @@
   .container {
     border: 4px solid rgb(175, 165, 165);
     padding: 30px 40px;
-    width: 1px;
     min-width: 500px;
     border-radius: 15px;
   }
